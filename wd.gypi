@@ -9,6 +9,7 @@
     'WD_CONFIG_ONE_KEYRELEASE': '0',
     'QT_INC_PATH': '/home/ubuntu/qt/include',
     'QT_BIN_PATH': '/home/ubuntu/qt/bin',
-    'QT_LIB_PATH': '/home/ubuntu/qt/lib'
+    'QT_LIB_PATH': '/home/ubuntu/qt/lib',
+    'MONGOOSE_INC_PATH': 'src/third_party/mongoose'
   },
 }
