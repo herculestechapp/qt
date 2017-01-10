@@ -32,14 +32,14 @@ Controller.prototype.ComponentSelectionPageCallback = function() {
     widget.selectComponent("qt.55.gcc_64");
     widget.selectComponent("qt.55.qtquickcontrols");
 
-    // widget.deselectComponent("qt.tools.qtcreator");
-    // widget.deselectComponent("qt.55.qt3d");
-    // widget.deselectComponent("qt.55.qtcanvas3d");
-    // widget.deselectComponent("qt.55.qtlocation");
-    // widget.deselectComponent("qt.55.qtquick1");
-    // widget.deselectComponent("qt.55.qtscript");
+    widget.selectComponent("qt.tools.qtcreator");
+    widget.selectComponent("qt.55.qt3d");
+    widget.selectComponent("qt.55.qtcanvas3d");
+    widget.selectComponent("qt.55.qtlocation");
+    widget.selectComponent("qt.55.qtquick1");
+    widget.selectComponent("qt.55.qtscript");
     widget.selectComponent("qt.55.qtwebengine");
-    // widget.deselectComponent("qt.extras");
+    widget.selectComponent("qt.extras");
     // widget.deselectComponent("qt.tools.doc");
     // widget.deselectComponent("qt.tools.examples");
 
