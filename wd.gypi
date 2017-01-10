@@ -7,9 +7,9 @@
     'WD_BUILD_MONGOOSE': '1',
     'WD_CONFIG_PLAYER': '0',
     'WD_CONFIG_ONE_KEYRELEASE': '0',
-    'QT_INC_PATH': '/home/ubuntu/qt/include',
-    'QT_BIN_PATH': '/home/ubuntu/qt/bin',
-    'QT_LIB_PATH': '/home/ubuntu/qt/lib',
+    'QT_INC_PATH': '/home/ubuntu/Qt/5.5/gcc_64/include',
+    'QT_BIN_PATH': '/home/ubuntu/Qt/5.5/gcc_64/bin',
+    'QT_LIB_PATH': '/home/ubuntu/Qt/5.5/gcc_64/lib',
     'MONGOOSE_INC_PATH': 'src/third_party/mongoose'
   },
 }
